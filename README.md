@@ -1,2 +1,2 @@
 # ems-weather-impact
-Analyzes historical EMS data to investigate how weather impacts the frequency of respiratory-related calls, including predictive modeling and visualizations.
+This project analyzes historical EMS data to investigate how extreme weather affects the frequency of respiratory-related emergency calls. Using NEMSIS data combined with NOAA weather records, the project explores patterns and builds predictive models to identify environmental conditions associated with increased call volume. Visualizations and analysis demonstrate insights that could inform EMS resource planning and public health preparedness.
